@@ -9,8 +9,8 @@
   ruby Centaurius.rb
 
 
-## Comment créer vos modules ?:
-   [![Lien vers video]](https://www.youtube.com/watch?v=Qwb7EGFS9Tg "Video pour créer vos modules")
+## Comment créer vos modules ? :
+   ![Lien vers video](https://www.youtube.com/watch?v=Qwb7EGFS9Tg "Video pour créer vos modules")
 
 ## Exemple de modules :
   class CentauriusModule
