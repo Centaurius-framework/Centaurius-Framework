@@ -2,15 +2,15 @@
 ![Image1](screenshot/Capture.png)
 
 ## Comment Installer ? :
-  apt update && apt install ruby gem ruby-colorize -y
-  git clone https://github.com/Centaurius-framework/Centaurius-Framework/
-  cd Centaurius-Framework
-  chmod 777 *
+  apt update && apt install ruby gem ruby-colorize -y && 
+  git clone https://github.com/Centaurius-framework/Centaurius-Framework/ && 
+  cd Centaurius-Framework && 
+  chmod 777 * && 
   ruby Centaurius.rb
 
 
 ## Comment créer vos modules ?:
-   [![Lien vers video](screenshot/Capture.png)](https://www.youtube.com/watch?v=Qwb7EGFS9Tg "Video pour créer vos modules")
+   [![Lien vers video]](https://www.youtube.com/watch?v=Qwb7EGFS9Tg "Video pour créer vos modules")
 
 ## Exemple de modules :
   class CentauriusModule
