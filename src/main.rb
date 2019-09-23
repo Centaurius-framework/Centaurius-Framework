@@ -1,6 +1,6 @@
 class Tools
-	require 'ostruct'
-	require 'socket'
+    require 'ostruct'
+    require 'socket'
     require 'open3'
     require 'readline'
     require 'colorize'
@@ -22,8 +22,8 @@ class Tools
     ls_modules_aux_conf = Dir["modules/auxiliary/*.conf"]
     ls_modules_payloads_rb = Dir["modules/payloads/*.rb"]
     ls_modules_payloads_conf = Dir["modules/payloads/*.conf"]
-    ls_modules_post_rb = Dir["modules/posts/*.rb"]
-    ls_modules_post_conf = Dir["modules/posts/*.conf"]
+    ls_modules_post_rb = Dir["modules/post/*.rb"]
+    ls_modules_post_conf = Dir["modules/post/*.conf"]
     ls_modules_scanner_rb = Dir["modules/scanner/*.rb"]
 
     count_rb_module = ls_rb.length
