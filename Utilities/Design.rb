@@ -32,8 +32,8 @@ module Design
 
         def Copyright
             version = "0.1"
-            site = "http://centaurius.net"
-            github_site = "https://github.com/Centaurius/Centaurius_Framework"
+            site = "https://centaurius-framework.github.io/centaurius_web/"
+            github_site = "https://github.com/Centaurius-framework/"
 			puts ""
             puts "      ------====== \033[1;91mCentaurius Framework\033[00m ======------  "
             puts "             Version : \033[1;91m#{version}\033[00m"
