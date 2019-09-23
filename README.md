@@ -1,4 +1,4 @@
-# Welcome Centaurius-Framework
+# Bienvenue sur Centaurius-Framework
 ![Image1](screenshot/Capture.png)
 
 ## Comment Installer ? :
@@ -10,8 +10,7 @@
 
 
 ## Comment créer vos modules ?:
-   ![Video1](https://www.youtube.com/watch?v=Qwb7EGFS9Tg&feature=youtu.be)
-
+   [![Lien vers video](screenshot/Capture.png)](https://www.youtube.com/watch?v=Qwb7EGFS9Tg "Video pour créer vos modules")
 
 ## Exemple de modules :
   class CentauriusModule
