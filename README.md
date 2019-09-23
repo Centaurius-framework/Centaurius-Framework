@@ -55,4 +55,4 @@ end
   retourner sur le menu du repos et faire un "merge & pull requests"
 
 
-### Toute l'equipe de Centaurius Framework vous remercie =)
+### Toute l'equipe de Centaurius Framework vous remercie =)
