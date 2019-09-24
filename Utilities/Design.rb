@@ -47,7 +47,7 @@ module Design
             muhamRB = "Muham RB".red
             kezua = "Kezua".blue
             prax = "Prax".green
-			puts "     Framework has been dev by  \n        [ #{unamed} - #{muhamRB} - #{kezua} - #{prax} ]"
+			puts "     Framework has been dev by  \n        [ #{unamed} - #{muhamRB} - #{prax} ]"
 			puts ""
 		end
 
