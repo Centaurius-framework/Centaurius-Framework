@@ -196,26 +196,36 @@ class Tools
             puts "\033[1;91m[\033[1;94m*\033[1;91m]\033[00m Exploit - \033[1;91m#{ls_modules_exploit_rb.length} [\033[1;94m*\033[1;91m]\033[00m"
             for exploit_modules in list_ls_modules_exploit_rb
                 puts "\033[1;91m[\033[1;94m*\033[1;91m] \033[00m#{exploit_modules}"
+		puts ""
+		puts ""
             end
 
             puts "\033[1;91m[\033[1;94m*\033[1;91m]\033[00m Auxiliary - \033[1;91m#{ls_modules_aux_rb.length} [\033[1;94m*\033[1;91m]\033[00m"
             for aux_modules in list_ls_modules_aux_rb
                 puts "\033[1;91m[\033[1;94m*\033[1;91m] \033[00m#{aux_modules}"
+		puts ""
+		puts ""
             end
 
             puts "\033[1;91m[\033[1;94m*\033[1;91m]\033[00m Payloads - \033[1;91m#{ls_modules_payloads_rb.length} [\033[1;94m*\033[1;91m]\033[00m"
             for payloads_modules in list_ls_modules_payloads_rb
                 puts "\033[1;91m[\033[1;94m*\033[1;91m] \033[00m#{payloads_modules}"
+		puts ""
+		puts ""
             end
 
             puts "\033[1;91m[\033[1;94m*\033[1;91m]\033[00m Post - \033[1;91m#{ls_modules_post_rb.length} [\033[1;94m*\033[1;91m]\033[00m"
             for post_modules in list_ls_modules_post_rb
                 puts "\033[1;91m[\033[1;94m*\033[1;91m] \033[00m#{post_modules}"
+		puts ""
+		puts ""
             end
 
             puts "\033[1;91m[\033[1;94m*\033[1;91m]\033[00m Scanner - \033[1;91m#{ls_modules_scanner_rb.length} [\033[1;94m*\033[1;91m]\033[00m"
             for scanner_modules in list_ls_modules_scanner_rb
                 puts "\033[1;91m[\033[1;94m*\033[1;91m] \033[00m#{scanner_modules}"
+		puts ""
+		puts ""
             end
 
         else
