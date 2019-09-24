@@ -80,7 +80,7 @@ class Tools
 
                     while true
                         trap("INT", "SIG_IGN")
-                        list_modules = ['exploit','exit','quit','show infos','set', 'clear','banner'].sort
+                        list_modules = ['exploit','exit','quit','show infos','set', 'clear','banner','back'].sort
                         i = 0
                         while i < console_load_modules.param.size
                             list_modules << console_load_modules.param.keys[i]
@@ -139,6 +139,9 @@ class Tools
                         elsif input.start_with? "exit"
                             puts "\033[1;91m[!] Thanks For Using Centaurius !\033[00m"
                             exit
+				
+			elsif input.start_with? "back"
+                            break
                         end
                     end
                     i= i+1
